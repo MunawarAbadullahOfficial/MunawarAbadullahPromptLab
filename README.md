@@ -19,7 +19,7 @@ To turn the #MunawarAbadullahPromptLab into a world-class resource, we need a na
 Every file must follow this specific formula:
 
 ```
-[Category]-[Subject]-[SpecificAction].md
+[Category]-[Subject]-[SpecificAction]-[Version].md
 ```
 
 **Rule:** Use all lowercase and hyphens (no spaces or underscores).
