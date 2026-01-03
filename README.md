@@ -93,3 +93,9 @@ A high-quality prompt in your lab will always have:
 2. **The Variable:** (e.g., "[Insert Topic Here]")
 3. **The Constraints:** (e.g., "Do not use emojis," "Keep it under 200 words.")
 ```
+
+---
+
+## 📘 Prompt Structure Guide
+- Read the complete structure and authoring rules in the guide:
+  - [MSPA Prompt Lab Complete System Guide](./mspa-prompt-lab-complete_-ystem-guide.md)
